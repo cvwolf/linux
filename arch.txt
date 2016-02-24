@@ -1,0 +1,36 @@
+by wolfy
+
+#Time
+ntpd -qg
+hwclock -w
+
+#software
+
+firefox/gftp/wget
+Emacs/vim/gedit/
+i3/openbox/LXDE
+mplayer/flashplug
+fcitx/fcitx-configtool/fcitx-im(qt4)
+netctl/wpa_actiond/wifi-menu
+dialog
+fortune-mod/
+scrot/gpicview/feh/
+pcmanfm/
+tmux/fbterm/fcitx-fbterm/
+dos2unix/
+python3/python2/ipython2/
+ydcv(English<->Chinese)/
+Tilda(Terminal)/
+shutter/
+
+##Yaourt
+
+yaourt/
+sublimt text 3/
+
+yaourt atom-editor FAILD!!!!!!! (nodejs,npm,apm,build...)
+
+## Build
+
+code(microsoft vscode)
+
