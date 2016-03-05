@@ -34,3 +34,6 @@ yaourt atom-editor FAILD!!!!!!! (nodejs,npm,apm,build...)
 
 code(microsoft vscode)
 
+## git
+emacs.d/spacemacs
+
