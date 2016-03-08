@@ -4,3 +4,4 @@ Learning Linux
 
 英文不好，中文记录
 
+目前使用Archlinux
