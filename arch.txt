@@ -23,7 +23,7 @@ ydcv(English<->Chinese)/
 Tilda(Terminal)/
 shutter/
 fish
-lxqt/(oxygen-icons,wiki.archlinux.org"tui jian""wei an zhuang")
+lxqt/oxygen-icons
 
 ##Yaourt
 
