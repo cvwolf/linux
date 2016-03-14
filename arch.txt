@@ -28,7 +28,7 @@ lxqt/oxygen-icons
 ##Yaourt
 
 yaourt/
-sublimt text 3/
+sublime text 3/
 
 yaourt atom-editor FAILD!!!!!!! (nodejs,npm,apm,build...)
 
