@@ -24,6 +24,7 @@ Tilda(Terminal)/
 shutter/
 fish
 lxqt/oxygen-icons
+w3m/
 
 ##Yaourt
 
